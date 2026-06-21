@@ -1,0 +1,30 @@
+[
+  {
+    "assumption_area": "Survey scope",
+    "assumption": "Voluntary respondent study; synthetic records represent embroidery/decorated-apparel businesses, not a probability sample."
+  },
+  {
+    "assumption_area": "Raw data quality",
+    "assumption": "Raw exports are intentionally uncleaned: duplicates, partials, messy emails, and open-text answer variants are present."
+  },
+  {
+    "assumption_area": "Cleaned counts",
+    "assumption": "Cleaning produces 680 diagnostic responses, 200 benchmark responses, and 150 joined overlap respondents."
+  },
+  {
+    "assumption_area": "Score distribution",
+    "assumption": "Diagnostic score distribution is centered on Partial Pricing System, with meaningful Blind Spot and Strong System tails."
+  },
+  {
+    "assumption_area": "Overlap bias",
+    "assumption": "Overlap respondents are slightly more engaged/mature on average, consistent with completion of two surveys."
+  },
+  {
+    "assumption_area": "Join logic",
+    "assumption": "Email is the raw join key but requires lowercasing, trimming, plus-alias handling, and a few manual reviews."
+  },
+  {
+    "assumption_area": "Messiness level",
+    "assumption": "Messiness is controlled and field-specific; required diagnostic scoring fields are recoverable after cleaning."
+  }
+]

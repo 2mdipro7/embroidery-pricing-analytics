@@ -1,0 +1,52 @@
+[
+  {
+    "file": "raw/pricing_diagnostic_raw_export.csv",
+    "rows": 734,
+    "description": "Uncleaned raw Pricing Diagnostic survey export with duplicates, partials, test rows, messy emails, mixed answer labels."
+  },
+  {
+    "file": "raw/benchmark_survey_raw_export.csv",
+    "rows": 224,
+    "description": "Uncleaned raw Benchmark Survey export with duplicate/partial/test records and raw benchmark answer text."
+  },
+  {
+    "file": "cleaned_expected/pricing_diagnostic_cleaned.csv",
+    "rows": 680,
+    "description": "Expected cleaned/scored diagnostic dataset after removing bad rows and applying 0-2 scoring map."
+  },
+  {
+    "file": "cleaned_expected/benchmark_survey_cleaned.csv",
+    "rows": 200,
+    "description": "Expected cleaned benchmark dataset after normalizing pricing methods, rates, policies, and confidence."
+  },
+  {
+    "file": "cleaned_expected/overlap_analysis_ready.csv",
+    "rows": 150,
+    "description": "Joined overlap file for respondents in both surveys using normalized email/respondent_id."
+  },
+  {
+    "file": "cleaned_expected/cleaning_audit_log.csv",
+    "rows": 78,
+    "description": "Record-level audit for duplicate, partial, and test rows excluded from cleaned datasets."
+  },
+  {
+    "file": "reference/diagnostic_question_scoring_map.csv",
+    "rows": 10,
+    "description": "Diagnostic question-to-driver and score mapping reference."
+  },
+  {
+    "file": "reference/benchmark_question_codebook.csv",
+    "rows": 9,
+    "description": "Benchmark survey question codebook and normalization guidance."
+  },
+  {
+    "file": "reference/raw_value_normalization_map.csv",
+    "rows": 26,
+    "description": "Representative raw-to-normalized value mappings."
+  },
+  {
+    "file": "reference/simulation_control_respondent_master.csv",
+    "rows": 730,
+    "description": "Internal simulation truth/control table for QA and reproducibility."
+  }
+]

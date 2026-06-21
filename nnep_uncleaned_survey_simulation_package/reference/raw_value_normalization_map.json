@@ -1,0 +1,158 @@
+[
+  {
+    "field_name": "Business Size",
+    "raw_value_example": "solo",
+    "normalized_value": "Solo owner/operator",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Business Size",
+    "raw_value_example": "just me",
+    "normalized_value": "Solo owner/operator",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Business Size",
+    "raw_value_example": "2-5",
+    "normalized_value": "2-5 employees",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Business Size",
+    "raw_value_example": "me + 2",
+    "normalized_value": "2-5 employees",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Business Size",
+    "raw_value_example": "about 8",
+    "normalized_value": "6-10 employees",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Business Size",
+    "raw_value_example": "26+",
+    "normalized_value": "26+ employees",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Years in Business",
+    "raw_value_example": "since 2018",
+    "normalized_value": "8",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Years in Business",
+    "raw_value_example": "20+",
+    "normalized_value": "20",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Years in Business",
+    "raw_value_example": "less than 1",
+    "normalized_value": "0",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Years in Business",
+    "raw_value_example": "about 7",
+    "normalized_value": "7",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Machine Count",
+    "raw_value_example": "two",
+    "normalized_value": "2",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Machine Count",
+    "raw_value_example": "3 heads",
+    "normalized_value": "3",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Machine Count",
+    "raw_value_example": "single head",
+    "normalized_value": "1",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Machine Count",
+    "raw_value_example": "10+",
+    "normalized_value": "10",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Current Pricing Method",
+    "raw_value_example": "gut feel",
+    "normalized_value": "Informal/custom quote",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Current Pricing Method",
+    "raw_value_example": "by stitch",
+    "normalized_value": "Stitch-count based",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Current Pricing Method",
+    "raw_value_example": "cost+margin",
+    "normalized_value": "Cost-plus",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Current Pricing Method",
+    "raw_value_example": "job costing",
+    "normalized_value": "Hybrid/job costing",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Current Pricing Method",
+    "raw_value_example": "market rate",
+    "normalized_value": "Competitor-based",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Email",
+    "raw_value_example": "OWNER@SHOP.EXAMPLE",
+    "normalized_value": "owner@shop.example",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Email",
+    "raw_value_example": "owner+survey@shop.example",
+    "normalized_value": "owner@shop.example",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Email",
+    "raw_value_example": "owner @ shop.example",
+    "normalized_value": "owner@shop.example",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Finished",
+    "raw_value_example": "TRUE",
+    "normalized_value": "complete",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Finished",
+    "raw_value_example": "Complete",
+    "normalized_value": "complete",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Finished",
+    "raw_value_example": "FALSE",
+    "normalized_value": "partial",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  },
+  {
+    "field_name": "Finished",
+    "raw_value_example": "Partial",
+    "normalized_value": "partial",
+    "cleaning_note": "Representative example used by the synthetic raw-to-cleaning pipeline."
+  }
+]

@@ -1,0 +1,79 @@
+audit_id,dataset,raw_response_id,respondent_id,issue_type,cleaning_action,retained_response_id,rationale
+AUD-0001,Pricing Diagnostic,R_PD_000681,NNEP-R0695,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000647,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0002,Pricing Diagnostic,R_PD_000682,NNEP-R0615,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000571,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0003,Pricing Diagnostic,R_PD_000683,NNEP-R0509,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000473,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0004,Pricing Diagnostic,R_PD_000684,NNEP-R0144,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000135,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0005,Pricing Diagnostic,R_PD_000685,NNEP-R0690,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000642,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0006,Pricing Diagnostic,R_PD_000686,NNEP-R0255,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000239,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0007,Pricing Diagnostic,R_PD_000687,NNEP-R0657,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000610,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0008,Pricing Diagnostic,R_PD_000688,NNEP-R0025,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000024,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0009,Pricing Diagnostic,R_PD_000689,NNEP-R0538,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000501,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0010,Pricing Diagnostic,R_PD_000690,NNEP-R0455,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000422,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0011,Pricing Diagnostic,R_PD_000691,NNEP-R0308,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000287,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0012,Pricing Diagnostic,R_PD_000692,NNEP-R0467,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000433,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0013,Pricing Diagnostic,R_PD_000693,NNEP-R0201,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000187,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0014,Pricing Diagnostic,R_PD_000694,NNEP-R0078,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000074,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0015,Pricing Diagnostic,R_PD_000695,NNEP-R0316,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000295,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0016,Pricing Diagnostic,R_PD_000696,NNEP-R0012,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000012,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0017,Pricing Diagnostic,R_PD_000697,NNEP-R0501,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000465,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0018,Pricing Diagnostic,R_PD_000698,NNEP-R0142,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000133,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0019,Pricing Diagnostic,R_PD_000699,NNEP-R0689,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000641,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0020,Pricing Diagnostic,R_PD_000700,NNEP-R0505,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000469,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0021,Pricing Diagnostic,R_PD_000701,NNEP-R0398,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000368,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0022,Pricing Diagnostic,R_PD_000702,NNEP-R0683,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000635,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0023,Pricing Diagnostic,R_PD_000703,NNEP-R0691,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000643,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0024,Pricing Diagnostic,R_PD_000704,NNEP-R0594,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000553,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0025,Pricing Diagnostic,R_PD_000705,NNEP-R0495,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000459,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0026,Pricing Diagnostic,R_PD_000706,NNEP-R0634,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000589,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0027,Pricing Diagnostic,R_PD_000707,NNEP-R0064,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000061,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0028,Pricing Diagnostic,R_PD_000708,NNEP-R0432,duplicate_response,Excluded duplicate; retained best complete response,R_PD_000399,Same normalized email/business as retained row; retained complete response with best completion metadata.
+AUD-0029,Pricing Diagnostic,R_PD_000709,NNEP-R0474,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0030,Pricing Diagnostic,R_PD_000710,NNEP-R0449,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0031,Pricing Diagnostic,R_PD_000711,NNEP-R0369,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0032,Pricing Diagnostic,R_PD_000712,NNEP-R0299,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0033,Pricing Diagnostic,R_PD_000713,NNEP-R0686,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0034,Pricing Diagnostic,R_PD_000714,NNEP-R0445,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0035,Pricing Diagnostic,R_PD_000715,NNEP-R0601,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0036,Pricing Diagnostic,R_PD_000716,NNEP-R0447,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0037,Pricing Diagnostic,R_PD_000717,NNEP-R0529,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0038,Pricing Diagnostic,R_PD_000718,NNEP-R0183,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0039,Pricing Diagnostic,R_PD_000719,NNEP-R0122,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0040,Pricing Diagnostic,R_PD_000720,NNEP-R0676,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0041,Pricing Diagnostic,R_PD_000721,NNEP-R0455,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0042,Pricing Diagnostic,R_PD_000722,NNEP-R0250,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0043,Pricing Diagnostic,R_PD_000723,NNEP-R0313,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0044,Pricing Diagnostic,R_PD_000724,NNEP-R0179,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0045,Pricing Diagnostic,R_PD_000725,NNEP-R0034,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0046,Pricing Diagnostic,R_PD_000726,NNEP-R0510,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0047,Pricing Diagnostic,R_PD_000727,NNEP-R0240,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0048,Pricing Diagnostic,R_PD_000728,NNEP-R0400,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0049,Pricing Diagnostic,R_PD_000729,NNEP-R0033,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0050,Pricing Diagnostic,R_PD_000730,NNEP-R0606,partial_response,Excluded from scored diagnostic dataset,,Progress below 80% or missing required diagnostic items.
+AUD-0051,Pricing Diagnostic,R_PD_000731,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."
+AUD-0052,Pricing Diagnostic,R_PD_000732,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."
+AUD-0053,Pricing Diagnostic,R_PD_000733,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."
+AUD-0054,Pricing Diagnostic,R_PD_000734,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."
+AUD-0055,Benchmark Survey,R_BM_000201,NNEP-R0338,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000094,Same normalized email/business as retained benchmark row.
+AUD-0056,Benchmark Survey,R_BM_000202,NNEP-R0317,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000086,Same normalized email/business as retained benchmark row.
+AUD-0057,Benchmark Survey,R_BM_000203,NNEP-R0163,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000050,Same normalized email/business as retained benchmark row.
+AUD-0058,Benchmark Survey,R_BM_000204,NNEP-R0670,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000184,Same normalized email/business as retained benchmark row.
+AUD-0059,Benchmark Survey,R_BM_000205,NNEP-R0325,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000089,Same normalized email/business as retained benchmark row.
+AUD-0060,Benchmark Survey,R_BM_000206,NNEP-R0174,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000055,Same normalized email/business as retained benchmark row.
+AUD-0061,Benchmark Survey,R_BM_000207,NNEP-R0417,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000117,Same normalized email/business as retained benchmark row.
+AUD-0062,Benchmark Survey,R_BM_000208,NNEP-R0346,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000096,Same normalized email/business as retained benchmark row.
+AUD-0063,Benchmark Survey,R_BM_000209,NNEP-R0666,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000182,Same normalized email/business as retained benchmark row.
+AUD-0064,Benchmark Survey,R_BM_000210,NNEP-R0252,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000071,Same normalized email/business as retained benchmark row.
+AUD-0065,Benchmark Survey,R_BM_000211,NNEP-R0134,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000045,Same normalized email/business as retained benchmark row.
+AUD-0066,Benchmark Survey,R_BM_000212,NNEP-R0575,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000159,Same normalized email/business as retained benchmark row.
+AUD-0067,Benchmark Survey,R_BM_000213,NNEP-R0374,duplicate_response,Excluded duplicate; retained best complete response,R_BM_000102,Same normalized email/business as retained benchmark row.
+AUD-0068,Benchmark Survey,R_BM_000214,NNEP-R0220,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0069,Benchmark Survey,R_BM_000215,NNEP-R0101,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0070,Benchmark Survey,R_BM_000216,NNEP-R0694,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0071,Benchmark Survey,R_BM_000217,NNEP-R0288,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0072,Benchmark Survey,R_BM_000218,NNEP-R0533,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0073,Benchmark Survey,R_BM_000219,NNEP-R0325,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0074,Benchmark Survey,R_BM_000220,NNEP-R0666,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0075,Benchmark Survey,R_BM_000221,NNEP-R0487,partial_response,Excluded from benchmark dataset,,Progress below 80% or missing key benchmark items.
+AUD-0076,Benchmark Survey,R_BM_000222,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."
+AUD-0077,Benchmark Survey,R_BM_000223,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."
+AUD-0078,Benchmark Survey,R_BM_000224,,test_or_preview,Excluded,,"Preview/test indicators, junk business name, or implausibly short duration."

@@ -1,0 +1,8 @@
+assumption_area,assumption
+Survey scope,"Voluntary respondent study; synthetic records represent embroidery/decorated-apparel businesses, not a probability sample."
+Raw data quality,"Raw exports are intentionally uncleaned: duplicates, partials, messy emails, and open-text answer variants are present."
+Cleaned counts,"Cleaning produces 680 diagnostic responses, 200 benchmark responses, and 150 joined overlap respondents."
+Score distribution,"Diagnostic score distribution is centered on Partial Pricing System, with meaningful Blind Spot and Strong System tails."
+Overlap bias,"Overlap respondents are slightly more engaged/mature on average, consistent with completion of two surveys."
+Join logic,"Email is the raw join key but requires lowercasing, trimming, plus-alias handling, and a few manual reviews."
+Messiness level,Messiness is controlled and field-specific; required diagnostic scoring fields are recoverable after cleaning.

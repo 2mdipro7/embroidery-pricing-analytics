@@ -1,0 +1,112 @@
+[
+  {
+    "question_id": "Q1",
+    "raw_export_column": "Q1: Calculate production/material cost before quoting",
+    "clean_score_column": "q1_score",
+    "pricing_driver": "Production Cost",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q2",
+    "raw_export_column": "Q2: Include thread, stabilizer, waste, and overhead in price",
+    "clean_score_column": "q2_score",
+    "pricing_driver": "Production Cost",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q3",
+    "raw_export_column": "Q3: Track hands-on embroidery labor time",
+    "clean_score_column": "q3_score",
+    "pricing_driver": "Real Labor",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q4",
+    "raw_export_column": "Q4: Include admin, artwork, proofing, and customer time",
+    "clean_score_column": "q4_score",
+    "pricing_driver": "Real Labor",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q5",
+    "raw_export_column": "Q5: Set intended profit target before pricing",
+    "clean_score_column": "q5_score",
+    "pricing_driver": "Intended Profit",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q6",
+    "raw_export_column": "Q6: Review margin after job completion",
+    "clean_score_column": "q6_score",
+    "pricing_driver": "Intended Profit",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q7",
+    "raw_export_column": "Q7: Adjust pricing for rush work or full schedule",
+    "clean_score_column": "q7_score",
+    "pricing_driver": "Capacity Pressure",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q8",
+    "raw_export_column": "Q8: Use capacity/backlog pressure in pricing decisions",
+    "clean_score_column": "q8_score",
+    "pricing_driver": "Capacity Pressure",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q9",
+    "raw_export_column": "Q9: Consider customer value/use case, not only stitch count",
+    "clean_score_column": "q9_score",
+    "pricing_driver": "End Customer Value",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  },
+  {
+    "question_id": "Q10",
+    "raw_export_column": "Q10: Can explain price based on value delivered",
+    "clean_score_column": "q10_score",
+    "pricing_driver": "End Customer Value",
+    "scoring_scale": "0=weak/no system; 1=partial/inconsistent; 2=strong/documented",
+    "score_0_examples": "No; Not really; I usually guess; No consistent process",
+    "score_1_examples": "Sometimes; For larger jobs only; Partially; Rough estimate",
+    "score_2_examples": "Yes; Always; Yes, documented; Built into our quote process",
+    "generation_note": "Raw answer labels are mapped to 0-2 scoring during cleaning."
+  }
+]

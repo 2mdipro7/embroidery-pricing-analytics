@@ -1,0 +1,27 @@
+field_name,raw_value_example,normalized_value,cleaning_note
+Business Size,solo,Solo owner/operator,Representative example used by the synthetic raw-to-cleaning pipeline.
+Business Size,just me,Solo owner/operator,Representative example used by the synthetic raw-to-cleaning pipeline.
+Business Size,2-5,2-5 employees,Representative example used by the synthetic raw-to-cleaning pipeline.
+Business Size,me + 2,2-5 employees,Representative example used by the synthetic raw-to-cleaning pipeline.
+Business Size,about 8,6-10 employees,Representative example used by the synthetic raw-to-cleaning pipeline.
+Business Size,26+,26+ employees,Representative example used by the synthetic raw-to-cleaning pipeline.
+Years in Business,since 2018,8,Representative example used by the synthetic raw-to-cleaning pipeline.
+Years in Business,20+,20,Representative example used by the synthetic raw-to-cleaning pipeline.
+Years in Business,less than 1,0,Representative example used by the synthetic raw-to-cleaning pipeline.
+Years in Business,about 7,7,Representative example used by the synthetic raw-to-cleaning pipeline.
+Machine Count,two,2,Representative example used by the synthetic raw-to-cleaning pipeline.
+Machine Count,3 heads,3,Representative example used by the synthetic raw-to-cleaning pipeline.
+Machine Count,single head,1,Representative example used by the synthetic raw-to-cleaning pipeline.
+Machine Count,10+,10,Representative example used by the synthetic raw-to-cleaning pipeline.
+Current Pricing Method,gut feel,Informal/custom quote,Representative example used by the synthetic raw-to-cleaning pipeline.
+Current Pricing Method,by stitch,Stitch-count based,Representative example used by the synthetic raw-to-cleaning pipeline.
+Current Pricing Method,cost+margin,Cost-plus,Representative example used by the synthetic raw-to-cleaning pipeline.
+Current Pricing Method,job costing,Hybrid/job costing,Representative example used by the synthetic raw-to-cleaning pipeline.
+Current Pricing Method,market rate,Competitor-based,Representative example used by the synthetic raw-to-cleaning pipeline.
+Email,OWNER@SHOP.EXAMPLE,owner@shop.example,Representative example used by the synthetic raw-to-cleaning pipeline.
+Email,owner+survey@shop.example,owner@shop.example,Representative example used by the synthetic raw-to-cleaning pipeline.
+Email,owner @ shop.example,owner@shop.example,Representative example used by the synthetic raw-to-cleaning pipeline.
+Finished,TRUE,complete,Representative example used by the synthetic raw-to-cleaning pipeline.
+Finished,Complete,complete,Representative example used by the synthetic raw-to-cleaning pipeline.
+Finished,FALSE,partial,Representative example used by the synthetic raw-to-cleaning pipeline.
+Finished,Partial,partial,Representative example used by the synthetic raw-to-cleaning pipeline.

@@ -1,0 +1,9 @@
+metric,value,expected_or_note
+diagnostic_raw_rows,734,Raw rows include clean + duplicate + partial + test.
+diagnostic_clean_rows,680,Target 680.
+benchmark_raw_rows,224,Raw rows include clean + duplicate + partial + test.
+benchmark_clean_rows,200,Target 200.
+overlap_rows,150,Target 150.
+pricing_blind_spots,150,Target about 22% of diagnostic clean.
+partial_pricing_system,380,Target about 56% of diagnostic clean.
+strong_pricing_system,150,Target about 22% of diagnostic clean.

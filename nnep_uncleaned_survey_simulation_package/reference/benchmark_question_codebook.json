@@ -1,0 +1,65 @@
+[
+  {
+    "raw_export_column": "How do you price most embroidery jobs?",
+    "normalized_field": "primary_pricing_method",
+    "topic_area": "Rate-setting behavior",
+    "data_type": "categorical",
+    "cleaning_rule": "Code open text to pricing method taxonomy."
+  },
+  {
+    "raw_export_column": "Hourly rate used, if any",
+    "normalized_field": "hourly_rate_estimate_usd",
+    "topic_area": "Rate-setting behavior",
+    "data_type": "numeric USD",
+    "cleaning_rule": "Extract numeric hourly amount; blank if not used."
+  },
+  {
+    "raw_export_column": "Price per 1,000 stitches, if used",
+    "normalized_field": "stitch_rate_per_1000",
+    "topic_area": "Rate-setting behavior",
+    "data_type": "numeric USD",
+    "cleaning_rule": "Extract numeric rate per 1,000 stitches."
+  },
+  {
+    "raw_export_column": "Minimum order or minimum charge",
+    "normalized_field": "minimum_order_quantity / minimum_job_charge_usd",
+    "topic_area": "Pricing policy discipline",
+    "data_type": "mixed",
+    "cleaning_rule": "Extract quantity minimum and/or dollar minimum."
+  },
+  {
+    "raw_export_column": "Do you charge a setup fee?",
+    "normalized_field": "setup_fee_policy / charges_setup_fee",
+    "topic_area": "Pricing policy discipline",
+    "data_type": "categorical + boolean",
+    "cleaning_rule": "Code yes/no/depends into setup policy."
+  },
+  {
+    "raw_export_column": "Do you charge a rush fee?",
+    "normalized_field": "rush_fee_policy / charges_rush_fee",
+    "topic_area": "Pricing policy discipline",
+    "data_type": "categorical + boolean",
+    "cleaning_rule": "Code yes/no/depends into rush policy."
+  },
+  {
+    "raw_export_column": "How often do you discount quoted prices?",
+    "normalized_field": "discounting_frequency",
+    "topic_area": "Pricing policy discipline",
+    "data_type": "ordinal categorical",
+    "cleaning_rule": "Normalize text to Frequently/Sometimes/Rarely/Never."
+  },
+  {
+    "raw_export_column": "How confident are you in your pricing?",
+    "normalized_field": "confidence_score_1_5 / pricing_confidence_level",
+    "topic_area": "Confidence and outcomes",
+    "data_type": "ordinal 1-5",
+    "cleaning_rule": "Convert numeric or text confidence to 1-5 scale."
+  },
+  {
+    "raw_export_column": "How would you describe profitability?",
+    "normalized_field": "perceived_profitability",
+    "topic_area": "Confidence and outcomes",
+    "data_type": "ordinal categorical",
+    "cleaning_rule": "Code free text to profitability perception band."
+  }
+]

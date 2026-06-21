@@ -1,0 +1,11 @@
+file,rows,description
+raw/pricing_diagnostic_raw_export.csv,734,"Uncleaned raw Pricing Diagnostic survey export with duplicates, partials, test rows, messy emails, mixed answer labels."
+raw/benchmark_survey_raw_export.csv,224,Uncleaned raw Benchmark Survey export with duplicate/partial/test records and raw benchmark answer text.
+cleaned_expected/pricing_diagnostic_cleaned.csv,680,Expected cleaned/scored diagnostic dataset after removing bad rows and applying 0-2 scoring map.
+cleaned_expected/benchmark_survey_cleaned.csv,200,"Expected cleaned benchmark dataset after normalizing pricing methods, rates, policies, and confidence."
+cleaned_expected/overlap_analysis_ready.csv,150,Joined overlap file for respondents in both surveys using normalized email/respondent_id.
+cleaned_expected/cleaning_audit_log.csv,78,"Record-level audit for duplicate, partial, and test rows excluded from cleaned datasets."
+reference/diagnostic_question_scoring_map.csv,10,Diagnostic question-to-driver and score mapping reference.
+reference/benchmark_question_codebook.csv,9,Benchmark survey question codebook and normalization guidance.
+reference/raw_value_normalization_map.csv,26,Representative raw-to-normalized value mappings.
+reference/simulation_control_respondent_master.csv,730,Internal simulation truth/control table for QA and reproducibility.

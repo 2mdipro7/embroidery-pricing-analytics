@@ -1,0 +1,782 @@
+[
+  {
+    "audit_id": "AUD-0001",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000681",
+    "respondent_id": "NNEP-R0695",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000647",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0002",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000682",
+    "respondent_id": "NNEP-R0615",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000571",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0003",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000683",
+    "respondent_id": "NNEP-R0509",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000473",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0004",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000684",
+    "respondent_id": "NNEP-R0144",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000135",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0005",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000685",
+    "respondent_id": "NNEP-R0690",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000642",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0006",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000686",
+    "respondent_id": "NNEP-R0255",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000239",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0007",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000687",
+    "respondent_id": "NNEP-R0657",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000610",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0008",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000688",
+    "respondent_id": "NNEP-R0025",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000024",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0009",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000689",
+    "respondent_id": "NNEP-R0538",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000501",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0010",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000690",
+    "respondent_id": "NNEP-R0455",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000422",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0011",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000691",
+    "respondent_id": "NNEP-R0308",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000287",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0012",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000692",
+    "respondent_id": "NNEP-R0467",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000433",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0013",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000693",
+    "respondent_id": "NNEP-R0201",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000187",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0014",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000694",
+    "respondent_id": "NNEP-R0078",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000074",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0015",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000695",
+    "respondent_id": "NNEP-R0316",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000295",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0016",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000696",
+    "respondent_id": "NNEP-R0012",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000012",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0017",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000697",
+    "respondent_id": "NNEP-R0501",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000465",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0018",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000698",
+    "respondent_id": "NNEP-R0142",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000133",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0019",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000699",
+    "respondent_id": "NNEP-R0689",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000641",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0020",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000700",
+    "respondent_id": "NNEP-R0505",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000469",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0021",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000701",
+    "respondent_id": "NNEP-R0398",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000368",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0022",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000702",
+    "respondent_id": "NNEP-R0683",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000635",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0023",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000703",
+    "respondent_id": "NNEP-R0691",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000643",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0024",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000704",
+    "respondent_id": "NNEP-R0594",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000553",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0025",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000705",
+    "respondent_id": "NNEP-R0495",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000459",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0026",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000706",
+    "respondent_id": "NNEP-R0634",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000589",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0027",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000707",
+    "respondent_id": "NNEP-R0064",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000061",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0028",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000708",
+    "respondent_id": "NNEP-R0432",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_PD_000399",
+    "rationale": "Same normalized email/business as retained row; retained complete response with best completion metadata."
+  },
+  {
+    "audit_id": "AUD-0029",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000709",
+    "respondent_id": "NNEP-R0474",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0030",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000710",
+    "respondent_id": "NNEP-R0449",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0031",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000711",
+    "respondent_id": "NNEP-R0369",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0032",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000712",
+    "respondent_id": "NNEP-R0299",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0033",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000713",
+    "respondent_id": "NNEP-R0686",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0034",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000714",
+    "respondent_id": "NNEP-R0445",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0035",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000715",
+    "respondent_id": "NNEP-R0601",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0036",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000716",
+    "respondent_id": "NNEP-R0447",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0037",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000717",
+    "respondent_id": "NNEP-R0529",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0038",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000718",
+    "respondent_id": "NNEP-R0183",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0039",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000719",
+    "respondent_id": "NNEP-R0122",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0040",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000720",
+    "respondent_id": "NNEP-R0676",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0041",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000721",
+    "respondent_id": "NNEP-R0455",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0042",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000722",
+    "respondent_id": "NNEP-R0250",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0043",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000723",
+    "respondent_id": "NNEP-R0313",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0044",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000724",
+    "respondent_id": "NNEP-R0179",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0045",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000725",
+    "respondent_id": "NNEP-R0034",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0046",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000726",
+    "respondent_id": "NNEP-R0510",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0047",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000727",
+    "respondent_id": "NNEP-R0240",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0048",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000728",
+    "respondent_id": "NNEP-R0400",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0049",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000729",
+    "respondent_id": "NNEP-R0033",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0050",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000730",
+    "respondent_id": "NNEP-R0606",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from scored diagnostic dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing required diagnostic items."
+  },
+  {
+    "audit_id": "AUD-0051",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000731",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  },
+  {
+    "audit_id": "AUD-0052",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000732",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  },
+  {
+    "audit_id": "AUD-0053",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000733",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  },
+  {
+    "audit_id": "AUD-0054",
+    "dataset": "Pricing Diagnostic",
+    "raw_response_id": "R_PD_000734",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  },
+  {
+    "audit_id": "AUD-0055",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000201",
+    "respondent_id": "NNEP-R0338",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000094",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0056",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000202",
+    "respondent_id": "NNEP-R0317",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000086",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0057",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000203",
+    "respondent_id": "NNEP-R0163",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000050",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0058",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000204",
+    "respondent_id": "NNEP-R0670",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000184",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0059",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000205",
+    "respondent_id": "NNEP-R0325",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000089",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0060",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000206",
+    "respondent_id": "NNEP-R0174",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000055",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0061",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000207",
+    "respondent_id": "NNEP-R0417",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000117",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0062",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000208",
+    "respondent_id": "NNEP-R0346",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000096",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0063",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000209",
+    "respondent_id": "NNEP-R0666",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000182",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0064",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000210",
+    "respondent_id": "NNEP-R0252",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000071",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0065",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000211",
+    "respondent_id": "NNEP-R0134",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000045",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0066",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000212",
+    "respondent_id": "NNEP-R0575",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000159",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0067",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000213",
+    "respondent_id": "NNEP-R0374",
+    "issue_type": "duplicate_response",
+    "cleaning_action": "Excluded duplicate; retained best complete response",
+    "retained_response_id": "R_BM_000102",
+    "rationale": "Same normalized email/business as retained benchmark row."
+  },
+  {
+    "audit_id": "AUD-0068",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000214",
+    "respondent_id": "NNEP-R0220",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0069",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000215",
+    "respondent_id": "NNEP-R0101",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0070",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000216",
+    "respondent_id": "NNEP-R0694",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0071",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000217",
+    "respondent_id": "NNEP-R0288",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0072",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000218",
+    "respondent_id": "NNEP-R0533",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0073",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000219",
+    "respondent_id": "NNEP-R0325",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0074",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000220",
+    "respondent_id": "NNEP-R0666",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0075",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000221",
+    "respondent_id": "NNEP-R0487",
+    "issue_type": "partial_response",
+    "cleaning_action": "Excluded from benchmark dataset",
+    "retained_response_id": "",
+    "rationale": "Progress below 80% or missing key benchmark items."
+  },
+  {
+    "audit_id": "AUD-0076",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000222",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  },
+  {
+    "audit_id": "AUD-0077",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000223",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  },
+  {
+    "audit_id": "AUD-0078",
+    "dataset": "Benchmark Survey",
+    "raw_response_id": "R_BM_000224",
+    "respondent_id": "",
+    "issue_type": "test_or_preview",
+    "cleaning_action": "Excluded",
+    "retained_response_id": "",
+    "rationale": "Preview/test indicators, junk business name, or implausibly short duration."
+  }
+]

@@ -1,0 +1,10 @@
+raw_export_column,normalized_field,topic_area,data_type,cleaning_rule
+How do you price most embroidery jobs?,primary_pricing_method,Rate-setting behavior,categorical,Code open text to pricing method taxonomy.
+"Hourly rate used, if any",hourly_rate_estimate_usd,Rate-setting behavior,numeric USD,Extract numeric hourly amount; blank if not used.
+"Price per 1,000 stitches, if used",stitch_rate_per_1000,Rate-setting behavior,numeric USD,"Extract numeric rate per 1,000 stitches."
+Minimum order or minimum charge,minimum_order_quantity / minimum_job_charge_usd,Pricing policy discipline,mixed,Extract quantity minimum and/or dollar minimum.
+Do you charge a setup fee?,setup_fee_policy / charges_setup_fee,Pricing policy discipline,categorical + boolean,Code yes/no/depends into setup policy.
+Do you charge a rush fee?,rush_fee_policy / charges_rush_fee,Pricing policy discipline,categorical + boolean,Code yes/no/depends into rush policy.
+How often do you discount quoted prices?,discounting_frequency,Pricing policy discipline,ordinal categorical,Normalize text to Frequently/Sometimes/Rarely/Never.
+How confident are you in your pricing?,confidence_score_1_5 / pricing_confidence_level,Confidence and outcomes,ordinal 1-5,Convert numeric or text confidence to 1-5 scale.
+How would you describe profitability?,perceived_profitability,Confidence and outcomes,ordinal categorical,Code free text to profitability perception band.

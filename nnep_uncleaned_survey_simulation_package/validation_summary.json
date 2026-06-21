@@ -1,0 +1,42 @@
+[
+  {
+    "metric": "diagnostic_raw_rows",
+    "value": 734,
+    "expected_or_note": "Raw rows include clean + duplicate + partial + test."
+  },
+  {
+    "metric": "diagnostic_clean_rows",
+    "value": 680,
+    "expected_or_note": "Target 680."
+  },
+  {
+    "metric": "benchmark_raw_rows",
+    "value": 224,
+    "expected_or_note": "Raw rows include clean + duplicate + partial + test."
+  },
+  {
+    "metric": "benchmark_clean_rows",
+    "value": 200,
+    "expected_or_note": "Target 200."
+  },
+  {
+    "metric": "overlap_rows",
+    "value": 150,
+    "expected_or_note": "Target 150."
+  },
+  {
+    "metric": "pricing_blind_spots",
+    "value": 150,
+    "expected_or_note": "Target about 22% of diagnostic clean."
+  },
+  {
+    "metric": "partial_pricing_system",
+    "value": 380,
+    "expected_or_note": "Target about 56% of diagnostic clean."
+  },
+  {
+    "metric": "strong_pricing_system",
+    "value": 150,
+    "expected_or_note": "Target about 22% of diagnostic clean."
+  }
+]

@@ -17,6 +17,23 @@ The embroidery and apparel decoration industry suffers from a systemic underpric
 
 ---
 
+## 📊 Visual Gallery
+
+<table>
+<tr>
+<td><img src="outputs/04_business_landscape_treemap.png" width="300"/><br><sub>Business Landscape Treemap</sub></td>
+<td><img src="outputs/14_radar_drivers.png" width="300"/><br><sub>Radar: Driver Sub-Scores by Tier</sub></td>
+<td><img src="outputs/22_bubble_chart.png" width="300"/><br><sub>Region × Pricing Method Bubble</sub></td>
+</tr>
+<tr>
+<td><img src="outputs/17_hourly_rate_violin.png" width="300"/><br><sub>Hourly Rate Distribution</sub></td>
+<td><img src="outputs/27_statistical_summary_table.png" width="300"/><br><sub>Statistical Test Summary</sub></td>
+<td><img src="outputs/28_word_cloud.png" width="300"/><br><sub>Open-Text Response Word Cloud</sub></td>
+</tr>
+</table>
+
+---
+
 ## 2. Methodology
 
 This analysis bridges behavioral pricing habits with actual financial outcomes by merging two primary datasets through a rigorous 8-phase data science pipeline:
@@ -69,20 +86,3 @@ Furthermore, geographic disparities (Kruskal-Wallis: H=9.66) indicate that prici
 ## 5. Conclusion
 
 To survive and thrive, embroidery businesses must transition from flat "stitch-count" algorithms into robust, value-based job-costing models. However, providing shop owners with mathematical calculators is not enough. The industry requires psychological tooling—such as confidence workshops, minimum-charge templates, and regional baselines—to break the cycle of undercharging. Data confirms that intervening at the "Squeezed Middle" will yield the highest return on investment for industry health, as moving a shop from "Pricing Blind Spots" to a "Strong System" unlocks up to $67/hour in previously unrealized revenue.
-
----
-
-## 📊 Visual Gallery
-
-<table>
-<tr>
-<td><img src="outputs/04_business_landscape_treemap.png" width="300"/><br><sub>Business Landscape Treemap</sub></td>
-<td><img src="outputs/14_radar_drivers.png" width="300"/><br><sub>Radar: Driver Sub-Scores by Tier</sub></td>
-<td><img src="outputs/22_bubble_chart.png" width="300"/><br><sub>Region × Pricing Method Bubble</sub></td>
-</tr>
-<tr>
-<td><img src="outputs/17_hourly_rate_violin.png" width="300"/><br><sub>Hourly Rate Distribution</sub></td>
-<td><img src="outputs/27_statistical_summary_table.png" width="300"/><br><sub>Statistical Test Summary</sub></td>
-<td><img src="outputs/28_word_cloud.png" width="300"/><br><sub>Open-Text Response Word Cloud</sub></td>
-</tr>
-</table>

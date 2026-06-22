@@ -3,11 +3,13 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Insights](https://img.shields.io/badge/Insights-Actionable-blue)
 
+> **Project Description:** End-to-end survey analytics project diagnosing embroidery shop pricing maturity, undercharging behavior, hourly-rate gaps, and profitability drivers using Python, statistical testing, segmentation, and NLP.
+
 ---
 
 ## 1. Executive Summary
 
-The embroidery and apparel decoration industry suffers from a systemic underpricing crisis, driven heavily by psychological barriers rather than mathematical ignorance. This report analyzes the pricing behaviors, financial outcomes, and confidence metrics of hundreds of shops to identify the core drivers of profitability.
+Embroidery shops often underprice not because they lack calculators, but because they lack enforceable pricing systems, confidence, and regional benchmarks. This project analyzes diagnostic and financial benchmark data to identify which pricing behaviors separate low-maturity shops from higher-revenue operators.
 
 **Key Takeaways:**
 1. **Formalized Systems Yield Higher Revenue:** Businesses operating with a formalized "Strong Pricing System" charge approximately **$67/hour more** than those relying on gut-feeling or competitor-matching.
@@ -59,7 +61,7 @@ This analysis bridges behavioral pricing habits with actual financial outcomes b
 Rigorous hypothesis testing confirms the following market dynamics:
 
 - **Test 1 — One-Way ANOVA (Hourly Rate by Maturity Tier):** 
-  *Significant (F=50.47, p=4.88e-17, η²=0.447)*. Having a formalized pricing system definitively predicts higher hourly rates. The large effect size (η² = 0.447) indicates maturity tier accounts for nearly 45% of the variance in a shop's hourly rate.
+  *Significant (F=50.47, p=4.88e-17, η²=0.447)*. Shops with stronger pricing systems report significantly higher hourly-rate estimates, with maturity tier explaining a large share of observed variance.
 - **Test 2 — Chi-Square (Confidence by Profitability):** 
   *Not Statistically Significant at α=0.05 (χ²=21.70, p=0.153, Cramér's V=0.148)*. While a visual trend exists, "confidence" alone does not reliably guarantee higher profitability margins without underlying system improvements.
 - **Test 3 — Mann-Whitney U (Self-Selection Bias):** 
@@ -83,6 +85,36 @@ Furthermore, geographic disparities (Kruskal-Wallis: H=9.66) indicate that prici
 
 ---
 
-## 5. Conclusion
+## 5. How to Run
+
+To reproduce this analysis locally:
+
+```bash
+git clone https://github.com/2mdipro7/embroidery-pricing-analytics.git
+cd embroidery-pricing-analytics
+pip install -r requirements.txt
+python analysis.py
+```
+
+Generated charts and summary tables are saved in the `/outputs` directory.
+
+---
+
+## 6. Potential Business Applications
+
+This analysis framework can be adapted for the following commercial use cases:
+* Pricing maturity diagnostic for embroidery/apparel decoration shops
+* Regional pricing benchmark report
+* Minimum-charge recommendation model
+* Undercharging-risk segmentation
+* Owner confidence and pricing-behavior dashboard
+
+---
+
+## 7. Conclusion
 
 To survive and thrive, embroidery businesses must transition from flat "stitch-count" algorithms into robust, value-based job-costing models. However, providing shop owners with mathematical calculators is not enough. The industry requires psychological tooling—such as confidence workshops, minimum-charge templates, and regional baselines—to break the cycle of undercharging. Data confirms that intervening at the "Squeezed Middle" will yield the highest return on investment for industry health, as moving a shop from "Pricing Blind Spots" to a "Strong System" unlocks up to $67/hour in previously unrealized revenue.
+
+---
+
+> **Data note:** This project uses simulated survey-style data for portfolio demonstration. Personally identifiable information was removed, and analysis focuses on aggregate pricing behavior.

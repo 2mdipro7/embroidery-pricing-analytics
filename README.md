@@ -1,6 +1,6 @@
-![Project Banner](banner/banner.png)
-
 # 🧵 State of the Embroidery Industry: Pricing Diagnostics & Insights
+
+![Project Banner](banner/banner.png)
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Insights](https://img.shields.io/badge/Insights-Actionable-blue)

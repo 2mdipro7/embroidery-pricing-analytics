@@ -51,8 +51,8 @@ AZURE_OPENAI_ENDPOINT = os.environ.get('AZURE_OPENAI_ENDPOINT', '')
 AZURE_OPENAI_API_KEY = os.environ.get('AZURE_OPENAI_API_KEY', '')
 
 BASE_DIR = Path('.')
-RAW_DIAG_PATH = BASE_DIR / 'nnep_uncleaned_survey_simulation_package/raw/pricing_diagnostic_raw_export.csv'
-RAW_BENCH_PATH = BASE_DIR / 'nnep_uncleaned_survey_simulation_package/raw/benchmark_survey_raw_export.csv'
+RAW_DIAG_PATH = BASE_DIR / 'survey_data/raw/pricing_diagnostic_raw_export.csv'
+RAW_BENCH_PATH = BASE_DIR / 'survey_data/raw/benchmark_survey_raw_export.csv'
 OUT_DIR = BASE_DIR / 'outputs'
 CLEAN_DIR = BASE_DIR / 'cleaned'
 
